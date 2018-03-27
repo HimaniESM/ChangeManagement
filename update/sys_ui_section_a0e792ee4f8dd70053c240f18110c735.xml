@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Planning" section_id="a0e792ee4f8dd70053c240f18110c735" sys_domain="global" table="change_request" version="3" view="change_itil">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>justification</element>
+            <position>0</position>
+            <sys_created_by>kevin_domadia</sys_created_by>
+            <sys_created_on>2018-03-27 20:56:52</sys_created_on>
+            <sys_id>ae08deae4f8dd70053c240f18110c7ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Planning" display_value="Planning" name="change_request" sys_domain="global" view="55379eae4f8dd70053c240f18110c748">a0e792ee4f8dd70053c240f18110c735</sys_ui_section>
+            <sys_updated_by>kevin_domadia</sys_updated_by>
+            <sys_updated_on>2018-03-27 20:56:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>implementation_plan</element>
+            <position>1</position>
+            <sys_created_by>kevin_domadia</sys_created_by>
+            <sys_created_on>2018-03-27 20:56:52</sys_created_on>
+            <sys_id>2208deae4f8dd70053c240f18110c7ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Planning" display_value="Planning" name="change_request" sys_domain="global" view="55379eae4f8dd70053c240f18110c748">a0e792ee4f8dd70053c240f18110c735</sys_ui_section>
+            <sys_updated_by>kevin_domadia</sys_updated_by>
+            <sys_updated_on>2018-03-27 20:56:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>risk_impact_analysis</element>
+            <position>2</position>
+            <sys_created_by>kevin_domadia</sys_created_by>
+            <sys_created_on>2018-03-27 20:56:52</sys_created_on>
+            <sys_id>a208deae4f8dd70053c240f18110c7ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Planning" display_value="Planning" name="change_request" sys_domain="global" view="55379eae4f8dd70053c240f18110c748">a0e792ee4f8dd70053c240f18110c735</sys_ui_section>
+            <sys_updated_by>kevin_domadia</sys_updated_by>
+            <sys_updated_on>2018-03-27 20:56:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>backout_plan</element>
+            <position>3</position>
+            <sys_created_by>kevin_domadia</sys_created_by>
+            <sys_created_on>2018-03-27 20:56:52</sys_created_on>
+            <sys_id>2608deae4f8dd70053c240f18110c7ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Planning" display_value="Planning" name="change_request" sys_domain="global" view="55379eae4f8dd70053c240f18110c748">a0e792ee4f8dd70053c240f18110c735</sys_ui_section>
+            <sys_updated_by>kevin_domadia</sys_updated_by>
+            <sys_updated_on>2018-03-27 20:56:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>test_plan</element>
+            <position>4</position>
+            <sys_created_by>kevin_domadia</sys_created_by>
+            <sys_created_on>2018-03-27 20:56:52</sys_created_on>
+            <sys_id>a608deae4f8dd70053c240f18110c7ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Planning" display_value="Planning" name="change_request" sys_domain="global" view="55379eae4f8dd70053c240f18110c748">a0e792ee4f8dd70053c240f18110c735</sys_ui_section>
+            <sys_updated_by>kevin_domadia</sys_updated_by>
+            <sys_updated_on>2018-03-27 20:56:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Planning</caption>
+            <header>false</header>
+            <name>change_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>kevin_domadia</sys_created_by>
+            <sys_created_on>2018-03-27 20:56:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a0e792ee4f8dd70053c240f18110c735</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Planning</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="ESM IT Change Management" source="x_infte_esm_it_cha">f6fb4de04f8dd30053c240f18110c709</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ESM IT Change Management">f6fb4de04f8dd30053c240f18110c709</sys_scope>
+            <sys_update_name>sys_ui_section_a0e792ee4f8dd70053c240f18110c735</sys_update_name>
+            <sys_updated_by>kevin_domadia</sys_updated_by>
+            <sys_updated_on>2018-03-27 20:56:11</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Change ITIL" name="change_itil">55379eae4f8dd70053c240f18110c748</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

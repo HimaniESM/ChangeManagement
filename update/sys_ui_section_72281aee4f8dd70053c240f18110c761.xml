@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Schedule" section_id="72281aee4f8dd70053c240f18110c761" sys_domain="global" table="change_request" version="3" view="change_itil">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>kevin_domadia</sys_created_by>
+            <sys_created_on>2018-03-27 20:58:59</sys_created_on>
+            <sys_id>e5885aee4f8dd70053c240f18110c717</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="change_request" sys_domain="global" view="55379eae4f8dd70053c240f18110c748">72281aee4f8dd70053c240f18110c761</sys_ui_section>
+            <sys_updated_by>kevin_domadia</sys_updated_by>
+            <sys_updated_on>2018-03-27 20:58:59</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>start_date</element>
+            <position>1</position>
+            <sys_created_by>kevin_domadia</sys_created_by>
+            <sys_created_on>2018-03-27 20:58:59</sys_created_on>
+            <sys_id>69885aee4f8dd70053c240f18110c717</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="change_request" sys_domain="global" view="55379eae4f8dd70053c240f18110c748">72281aee4f8dd70053c240f18110c761</sys_ui_section>
+            <sys_updated_by>kevin_domadia</sys_updated_by>
+            <sys_updated_on>2018-03-27 20:58:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>end_date</element>
+            <position>2</position>
+            <sys_created_by>kevin_domadia</sys_created_by>
+            <sys_created_on>2018-03-27 20:58:59</sys_created_on>
+            <sys_id>e9885aee4f8dd70053c240f18110c717</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="change_request" sys_domain="global" view="55379eae4f8dd70053c240f18110c748">72281aee4f8dd70053c240f18110c761</sys_ui_section>
+            <sys_updated_by>kevin_domadia</sys_updated_by>
+            <sys_updated_on>2018-03-27 20:58:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cab_required</element>
+            <position>3</position>
+            <sys_created_by>kevin_domadia</sys_created_by>
+            <sys_created_on>2018-03-27 20:58:59</sys_created_on>
+            <sys_id>6d885aee4f8dd70053c240f18110c717</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="change_request" sys_domain="global" view="55379eae4f8dd70053c240f18110c748">72281aee4f8dd70053c240f18110c761</sys_ui_section>
+            <sys_updated_by>kevin_domadia</sys_updated_by>
+            <sys_updated_on>2018-03-27 20:58:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cab_date</element>
+            <position>4</position>
+            <sys_created_by>kevin_domadia</sys_created_by>
+            <sys_created_on>2018-03-27 20:58:59</sys_created_on>
+            <sys_id>ed885aee4f8dd70053c240f18110c717</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="change_request" sys_domain="global" view="55379eae4f8dd70053c240f18110c748">72281aee4f8dd70053c240f18110c761</sys_ui_section>
+            <sys_updated_by>kevin_domadia</sys_updated_by>
+            <sys_updated_on>2018-03-27 20:58:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>kevin_domadia</sys_created_by>
+            <sys_created_on>2018-03-27 20:58:59</sys_created_on>
+            <sys_id>61885aee4f8dd70053c240f18110c718</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="change_request" sys_domain="global" view="55379eae4f8dd70053c240f18110c748">72281aee4f8dd70053c240f18110c761</sys_ui_section>
+            <sys_updated_by>kevin_domadia</sys_updated_by>
+            <sys_updated_on>2018-03-27 20:58:59</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_start</element>
+            <position>6</position>
+            <sys_created_by>kevin_domadia</sys_created_by>
+            <sys_created_on>2018-03-27 20:58:59</sys_created_on>
+            <sys_id>e1885aee4f8dd70053c240f18110c718</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="change_request" sys_domain="global" view="55379eae4f8dd70053c240f18110c748">72281aee4f8dd70053c240f18110c761</sys_ui_section>
+            <sys_updated_by>kevin_domadia</sys_updated_by>
+            <sys_updated_on>2018-03-27 20:58:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_end</element>
+            <position>7</position>
+            <sys_created_by>kevin_domadia</sys_created_by>
+            <sys_created_on>2018-03-27 20:58:59</sys_created_on>
+            <sys_id>65885aee4f8dd70053c240f18110c718</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="change_request" sys_domain="global" view="55379eae4f8dd70053c240f18110c748">72281aee4f8dd70053c240f18110c761</sys_ui_section>
+            <sys_updated_by>kevin_domadia</sys_updated_by>
+            <sys_updated_on>2018-03-27 20:58:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cab_delegate</element>
+            <position>8</position>
+            <sys_created_by>kevin_domadia</sys_created_by>
+            <sys_created_on>2018-03-27 20:58:59</sys_created_on>
+            <sys_id>e5885aee4f8dd70053c240f18110c718</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="change_request" sys_domain="global" view="55379eae4f8dd70053c240f18110c748">72281aee4f8dd70053c240f18110c761</sys_ui_section>
+            <sys_updated_by>kevin_domadia</sys_updated_by>
+            <sys_updated_on>2018-03-27 20:58:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cab_recommendation</element>
+            <position>9</position>
+            <sys_created_by>kevin_domadia</sys_created_by>
+            <sys_created_on>2018-03-27 20:58:59</sys_created_on>
+            <sys_id>69885aee4f8dd70053c240f18110c718</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="change_request" sys_domain="global" view="55379eae4f8dd70053c240f18110c748">72281aee4f8dd70053c240f18110c761</sys_ui_section>
+            <sys_updated_by>kevin_domadia</sys_updated_by>
+            <sys_updated_on>2018-03-27 20:58:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>10</position>
+            <sys_created_by>kevin_domadia</sys_created_by>
+            <sys_created_on>2018-03-27 20:58:59</sys_created_on>
+            <sys_id>e9885aee4f8dd70053c240f18110c718</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="Schedule" name="change_request" sys_domain="global" view="55379eae4f8dd70053c240f18110c748">72281aee4f8dd70053c240f18110c761</sys_ui_section>
+            <sys_updated_by>kevin_domadia</sys_updated_by>
+            <sys_updated_on>2018-03-27 20:58:59</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Schedule</caption>
+            <header>false</header>
+            <name>change_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>kevin_domadia</sys_created_by>
+            <sys_created_on>2018-03-27 20:57:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>72281aee4f8dd70053c240f18110c761</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Schedule</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="ESM IT Change Management" source="x_infte_esm_it_cha">f6fb4de04f8dd30053c240f18110c709</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ESM IT Change Management">f6fb4de04f8dd30053c240f18110c709</sys_scope>
+            <sys_update_name>sys_ui_section_72281aee4f8dd70053c240f18110c761</sys_update_name>
+            <sys_updated_by>kevin_domadia</sys_updated_by>
+            <sys_updated_on>2018-03-27 20:57:26</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Change ITIL" name="change_itil">55379eae4f8dd70053c240f18110c748</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

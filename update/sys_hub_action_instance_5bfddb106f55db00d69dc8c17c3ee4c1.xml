@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Look Up Record">bf0256c10b30030085c083eb37673ac0</action_type>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="Change task validation (ESM)">30a5d3986f15db00d69dc8c17c3ee40d</flow>
+        <order>2</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>Kevin_Domadia</sys_created_by>
+        <sys_created_on>2018-04-02 12:31:51</sys_created_on>
+        <sys_id>5bfddb106f55db00d69dc8c17c3ee4c1</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ESM IT Change Management" source="x_infte_esm_it_cha">f6fb4de04f8dd30053c240f18110c709</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ESM IT Change Management">f6fb4de04f8dd30053c240f18110c709</sys_scope>
+        <sys_update_name>sys_hub_action_instance_5bfddb106f55db00d69dc8c17c3ee4c1</sys_update_name>
+        <sys_updated_by>Kevin_Domadia</sys_updated_by>
+        <sys_updated_on>2018-04-02 12:39:41</sys_updated_on>
+        <ui_id>7baa6561-1523-4e26-b3fa-0c86b541dac2</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=5bfddb106f55db00d69dc8c17c3ee4c1"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>5bfddb106f55db00d69dc8c17c3ee4c1</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Kevin_Domadia</sys_created_by>
+        <sys_created_on>2018-04-02 12:31:52</sys_created_on>
+        <sys_id>23fddb106f55db00d69dc8c17c3ee4f9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Kevin_Domadia</sys_updated_by>
+        <sys_updated_on>2018-04-02 12:31:52</sys_updated_on>
+        <value>change_request</value>
+        <variable display_value="">b70256c10b30030085c083eb37673ac3</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>5bfddb106f55db00d69dc8c17c3ee4c1</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Kevin_Domadia</sys_created_by>
+        <sys_created_on>2018-04-02 12:31:51</sys_created_on>
+        <sys_id>dffddb106f55db00d69dc8c17c3ee4d0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Kevin_Domadia</sys_updated_by>
+        <sys_updated_on>2018-04-02 12:31:51</sys_updated_on>
+        <value>change_request</value>
+        <variable display_value="">79305e810b30030085c083eb37673a85</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=5bfddb106f55db00d69dc8c17c3ee4c1"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>conditions</field>
+        <id>5bfddb106f55db00d69dc8c17c3ee4c1</id>
+        <sys_created_by>Kevin_Domadia</sys_created_by>
+        <sys_created_on>2018-04-02 12:31:51</sys_created_on>
+        <sys_id>9bfddb106f55db00d69dc8c17c3ee4d0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Kevin_Domadia</sys_updated_by>
+        <sys_updated_on>2018-04-02 12:31:51</sys_updated_on>
+        <table>var__m_sys_hub_action_input_b93f42810b30030085c083eb37673a63</table>
+        <value>numberSAMEAS{{Updated_1.current.change_request.number}}^ORnumberSAMEAS{{Updated_1.current.parent.number}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>conditions</field>
+        <id>5bfddb106f55db00d69dc8c17c3ee4c1</id>
+        <sys_created_by>Kevin_Domadia</sys_created_by>
+        <sys_created_on>2018-04-02 12:31:52</sys_created_on>
+        <sys_id>ebfddb106f55db00d69dc8c17c3ee4f8</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>Kevin_Domadia</sys_updated_by>
+        <sys_updated_on>2018-04-02 12:37:47</sys_updated_on>
+        <table>var__m_sys_hub_action_input_bf0256c10b30030085c083eb37673ac0</table>
+        <value>sys_id={{Updated_1.current.change_request.sys_id}}^ORsys_id={{Updated_1.current.parent.sys_id}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table</field>
+        <id>5bfddb106f55db00d69dc8c17c3ee4c1</id>
+        <sys_created_by>Kevin_Domadia</sys_created_by>
+        <sys_created_on>2018-04-02 12:31:51</sys_created_on>
+        <sys_id>5ffddb106f55db00d69dc8c17c3ee4d0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Kevin_Domadia</sys_updated_by>
+        <sys_updated_on>2018-04-02 12:31:51</sys_updated_on>
+        <table>var__m_sys_hub_action_input_b93f42810b30030085c083eb37673a63</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table</field>
+        <id>5bfddb106f55db00d69dc8c17c3ee4c1</id>
+        <sys_created_by>Kevin_Domadia</sys_created_by>
+        <sys_created_on>2018-04-02 12:31:52</sys_created_on>
+        <sys_id>affddb106f55db00d69dc8c17c3ee4f8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Kevin_Domadia</sys_updated_by>
+        <sys_updated_on>2018-04-02 12:31:52</sys_updated_on>
+        <table>var__m_sys_hub_action_input_bf0256c10b30030085c083eb37673ac0</table>
+        <value/>
+    </sys_element_mapping>
+</record_update>

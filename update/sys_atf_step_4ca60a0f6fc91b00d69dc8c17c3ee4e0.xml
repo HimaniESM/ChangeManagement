@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Validate that the form matches the following condition:
+Implementation plan = Automated Testing
+and Backout plan = Automated Testing
+and Test plan = Automated Testing
+and Planned start date on 2018-03-29
+and Planned end date on 2018-04-04
+and CAB date on 2018-04-09
+With a failure timeout of 5 Seconds</description>
+        <display_name>Field Values Validation</display_name>
+        <inputs/>
+        <order>12</order>
+        <step_config display_value="Field Values Validation">1b97cd31872022008182c9ded0e3ece5</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>Amit Kumar</sys_created_by>
+        <sys_created_on>2018-03-29 09:00:53</sys_created_on>
+        <sys_id>4ca60a0f6fc91b00d69dc8c17c3ee4e0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Field Values Validation</sys_name>
+        <sys_package display_value="ESM IT Change Management" source="x_infte_esm_it_cha">f6fb4de04f8dd30053c240f18110c709</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ESM IT Change Management">f6fb4de04f8dd30053c240f18110c709</sys_scope>
+        <sys_update_name>sys_atf_step_4ca60a0f6fc91b00d69dc8c17c3ee4e0</sys_update_name>
+        <sys_updated_by>Amit Kumar</sys_updated_by>
+        <sys_updated_on>2018-03-29 09:00:53</sys_updated_on>
+        <table>change_request</table>
+        <test display_value="Normal Change -2">3da20e4b6fc91b00d69dc8c17c3ee43a</test>
+        <timeout>1970-01-01 00:00:05</timeout>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=4ca60a0f6fc91b00d69dc8c17c3ee4e0"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>4ca60a0f6fc91b00d69dc8c17c3ee4e0</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Amit Kumar</sys_created_by>
+        <sys_created_on>2018-03-29 09:00:57</sys_created_on>
+        <sys_id>7657824f6fc91b00d69dc8c17c3ee46f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Amit Kumar</sys_updated_by>
+        <sys_updated_on>2018-03-29 09:00:57</sys_updated_on>
+        <value>change_request</value>
+        <variable display_value="">a0e13cc35320220002c6435723dc3467</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>4ca60a0f6fc91b00d69dc8c17c3ee4e0</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Amit Kumar</sys_created_by>
+        <sys_created_on>2018-03-29 09:00:57</sys_created_on>
+        <sys_id>b257824f6fc91b00d69dc8c17c3ee46f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Amit Kumar</sys_updated_by>
+        <sys_updated_on>2018-03-29 09:00:57</sys_updated_on>
+        <value>implementation_plan=Automated Testing^backout_plan=Automated Testing^test_plan=Automated Testing^start_dateON2018-03-29@javascript:gs.dateGenerate('2018-03-29','start')@javascript:gs.dateGenerate('2018-03-29','end')^end_dateON2018-04-04@javascript:gs.dateGenerate('2018-04-04','start')@javascript:gs.dateGenerate('2018-04-04','end')^cab_dateON2018-04-09@javascript:gs.dateGenerate('2018-04-09','start')@javascript:gs.dateGenerate('2018-04-09','end')^EQ</value>
+        <variable display_value="">4aa838f25320220002c6435723dc34e1</variable>
+    </sys_variable_value>
+</record_update>

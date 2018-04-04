@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_flow_record_trigger">
+    <sys_flow_record_trigger action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="change_task">stateCHANGESTO3^ORstateCHANGESTO4<item endquery="false" field="state" goto="false" newquery="false" operator="CHANGESTO" or="false" value="3"/>
+            <item endquery="false" field="state" goto="false" newquery="false" operator="CHANGESTO" or="true" value="4"/>
+        </condition>
+        <name/>
+        <on_delete>false</on_delete>
+        <on_insert>false</on_insert>
+        <on_update>true</on_update>
+        <sys_class_name>sys_flow_record_trigger</sys_class_name>
+        <sys_created_by>Kevin_Domadia</sys_created_by>
+        <sys_created_on>2018-04-02 12:39:43</sys_created_on>
+        <sys_id>66cf9f506f55db00d69dc8c17c3ee436</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ESM IT Change Management" source="x_infte_esm_it_cha">f6fb4de04f8dd30053c240f18110c709</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ESM IT Change Management">f6fb4de04f8dd30053c240f18110c709</sys_scope>
+        <sys_update_name>sys_flow_record_trigger_66cf9f506f55db00d69dc8c17c3ee436</sys_update_name>
+        <sys_updated_by>Kevin_Domadia</sys_updated_by>
+        <sys_updated_on>2018-04-02 12:39:43</sys_updated_on>
+        <table>change_task</table>
+    </sys_flow_record_trigger>
+</record_update>

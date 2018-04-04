@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="email_client=true,hasWorkflow=true,live_feed=true" audit="true" extends="task" label="Change Request" max_length="40" name="change_request" sizeclass="37" text_index="true" type="collection">
+        <element label="Task Validation" max_length="40" name="x_infte_esm_it_cha_task_validation" read_only="true" type="boolean"/>
+    </element>
+</database>

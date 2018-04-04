@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>store_usage_overview</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>Kevin_Domadia</sys_created_by>
+        <sys_created_on>2018-04-03 10:25:17</sys_created_on>
+        <sys_id>0f9a8cf46f9ddb00d69dc8c17c3ee439</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Store_usage_overview</sys_name>
+        <sys_package display_value="ESM IT Change Management" source="x_infte_esm_it_cha">f6fb4de04f8dd30053c240f18110c709</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ESM IT Change Management">f6fb4de04f8dd30053c240f18110c709</sys_scope>
+        <sys_update_name>sys_ui_view_0f9a8cf46f9ddb00d69dc8c17c3ee439</sys_update_name>
+        <sys_updated_by>Kevin_Domadia</sys_updated_by>
+        <sys_updated_on>2018-04-03 10:25:17</sys_updated_on>
+        <title>Store_usage_overview</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

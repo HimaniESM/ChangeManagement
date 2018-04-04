@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Confirm that browser submits 'Change Task' form to server when clicking UI Action 'Close Task'.</description>
+        <display_name>Click a UI Action</display_name>
+        <inputs/>
+        <order>14</order>
+        <step_config display_value="Click a UI Action">0f4a128297202200abe4bb7503ac4af0</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>Amit Kumar</sys_created_by>
+        <sys_created_on>2018-04-04 09:34:12</sys_created_on>
+        <sys_id>0b584d814f1d1f0053c240f18110c7ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Click a UI Action</sys_name>
+        <sys_package display_value="ESM IT Change Management" source="x_infte_esm_it_cha">f6fb4de04f8dd30053c240f18110c709</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ESM IT Change Management">f6fb4de04f8dd30053c240f18110c709</sys_scope>
+        <sys_update_name>sys_atf_step_0b584d814f1d1f0053c240f18110c7ef</sys_update_name>
+        <sys_updated_by>Amit Kumar</sys_updated_by>
+        <sys_updated_on>2018-04-04 09:34:12</sys_updated_on>
+        <table>change_task</table>
+        <test display_value="Normal Change -1">4988c4f66fcdd700d69dc8c17c3ee494</test>
+        <timeout/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=0b584d814f1d1f0053c240f18110c7ef"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>0b584d814f1d1f0053c240f18110c7ef</document_key>
+        <order>500</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Amit Kumar</sys_created_by>
+        <sys_created_on>2018-04-04 09:34:15</sys_created_on>
+        <sys_id>018841c14f1d1f0053c240f18110c780</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Amit Kumar</sys_updated_by>
+        <sys_updated_on>2018-04-04 09:34:15</sys_updated_on>
+        <value>form_submitted_to_server</value>
+        <variable display_value="">7600f16353e0220002c6435723dc34d5</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>0b584d814f1d1f0053c240f18110c7ef</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Amit Kumar</sys_created_by>
+        <sys_created_on>2018-04-04 09:34:15</sys_created_on>
+        <sys_id>4d8841c14f1d1f0053c240f18110c78c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Amit Kumar</sys_updated_by>
+        <sys_updated_on>2018-04-04 09:34:15</sys_updated_on>
+        <value>change_task</value>
+        <variable display_value="">3eee292353e0220002c6435723dc343c</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>0b584d814f1d1f0053c240f18110c7ef</document_key>
+        <order>400</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Amit Kumar</sys_created_by>
+        <sys_created_on>2018-04-04 09:34:15</sys_created_on>
+        <sys_id>898841c14f1d1f0053c240f18110c78c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Amit Kumar</sys_updated_by>
+        <sys_updated_on>2018-04-04 09:34:15</sys_updated_on>
+        <value>902135660a0a0b0100cf5f20f75c56c1</value>
+        <variable display_value="">7c5f6d2353e0220002c6435723dc34f6</variable>
+    </sys_variable_value>
+</record_update>

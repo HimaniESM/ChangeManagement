@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_flow_logic">
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">53fddb106f55db00d69dc8c17c3ee4da</block>
+        <connected_to/>
+        <display_text/>
+        <flow display_value="Change task validation (ESM)">30a5d3986f15db00d69dc8c17c3ee40d</flow>
+        <inputs/>
+        <logic_definition display_value="If">af4e1945c3e232002841b63b12d3ae3e</logic_definition>
+        <order>3</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>Kevin_Domadia</sys_created_by>
+        <sys_created_on>2018-04-02 12:31:51</sys_created_on>
+        <sys_id>dbfddb106f55db00d69dc8c17c3ee4db</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ESM IT Change Management" source="x_infte_esm_it_cha">f6fb4de04f8dd30053c240f18110c709</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ESM IT Change Management">f6fb4de04f8dd30053c240f18110c709</sys_scope>
+        <sys_update_name>sys_hub_flow_logic_dbfddb106f55db00d69dc8c17c3ee4db</sys_update_name>
+        <sys_updated_by>Kevin_Domadia</sys_updated_by>
+        <sys_updated_on>2018-04-02 12:31:51</sys_updated_on>
+        <ui_id>da96079d-09fb-4d95-b9cf-5316f9c29938</ui_id>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=dbfddb106f55db00d69dc8c17c3ee4db"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>dbfddb106f55db00d69dc8c17c3ee4db</document_key>
+        <order>20</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Kevin_Domadia</sys_created_by>
+        <sys_created_on>2018-04-02 12:31:51</sys_created_on>
+        <sys_id>17fddb106f55db00d69dc8c17c3ee4de</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Kevin_Domadia</sys_updated_by>
+        <sys_updated_on>2018-04-02 12:31:51</sys_updated_on>
+        <value>{{676f425a-4fa3-4ca4-bdb9-30ca837bf660.Count}}=0</value>
+        <variable display_value="">9a5f5105c32632002841b63b12d3ae46</variable>
+    </sys_variable_value>
+</record_update>

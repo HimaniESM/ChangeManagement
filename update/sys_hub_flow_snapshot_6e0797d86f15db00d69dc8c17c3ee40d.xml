@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_flow_snapshot">
+    <sys_hub_flow_snapshot action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <label_cache>[{"name":"e9a8c883-ef11-469a-bd97-7c32551643d1.Record","label":"1➛Change Request Record","reference":"change_request","reference_display":"Change Request","type":"reference","base_type":"reference"},{"name":"Updated_1.current.change_request.number","label":"Trigger➛Change Task Record➛Change request➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"change_request","column_name":"number"}]</label_cache>
+        <name>Change task validation (ESM)</name>
+        <parent_flow display_value="Change task validation (ESM)">30a5d3986f15db00d69dc8c17c3ee40d</parent_flow>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow_snapshot</sys_class_name>
+        <sys_created_by>Kevin_Domadia</sys_created_by>
+        <sys_created_on>2018-04-02 12:01:29</sys_created_on>
+        <sys_id>6e0797d86f15db00d69dc8c17c3ee40d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Change task validation (ESM)</sys_name>
+        <sys_package display_value="ESM IT Change Management" source="x_infte_esm_it_cha">f6fb4de04f8dd30053c240f18110c709</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ESM IT Change Management">f6fb4de04f8dd30053c240f18110c709</sys_scope>
+        <sys_update_name>sys_hub_flow_snapshot_6e0797d86f15db00d69dc8c17c3ee40d</sys_update_name>
+        <sys_updated_by>Kevin_Domadia</sys_updated_by>
+        <sys_updated_on>2018-04-02 12:01:29</sys_updated_on>
+    </sys_hub_flow_snapshot>
+</record_update>
